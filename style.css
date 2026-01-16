@@ -45,6 +45,7 @@ body{
 
 .input::placeholder{
     letter-spacing: 0px;
+    color:black;
 }
 
 .fa-copy{
@@ -93,4 +94,5 @@ body{
 }
 .active.alert-container{
     right: -300px;
+
 }
